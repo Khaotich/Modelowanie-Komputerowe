@@ -1,0 +1,5 @@
+1000 kroków i 1000 przebiegów
+
+p dla 1D = 0.025406 
+p dla 2D = 0.00314 
+p dla 3D = 0.000498
